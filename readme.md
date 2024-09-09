@@ -14,7 +14,7 @@ Welcome to my Github! 👩🏻‍💻 My name is Antonius Christian, I am a Back
 - <a href="https://github.com/Antonius1712/CORSEC" target="_blank"> CORPORATE SECRETARY / CORSEC Application </a>
 - <a href="https://github.com/Antonius1712/LEGAL" target="_blank"> LEGAL BPKB Checksheet Application </a>
 - <a href="https://github.com/Antonius1712/LGI-FIXED-ASSET" target="_blank"> Asset Number Generator </a>
-- <a href="https://github.com/Antonius1712/LGI-COLLECTION" target="_blank"> Report Generator for Multiple Brokers & Currency </a>
+- <a href="https://github.com/Antonius1712/multi-broker-and-currency-report" target="_blank"> Report Generator for Multiple Brokers & Currency </a>
 - <a href="https://github.com/Antonius1712/RMFEE" target="_blank"> Budget & Realization Log & Processing </a>
 
 ## My Project List Using Next.js

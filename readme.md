@@ -10,6 +10,16 @@ Welcome to my Github! 👩🏻‍💻 My name is Antonius Christian, I am a Back
 ## My Recent Projects
 - https://accorpora-anime-site.vercel.app/
 
+## My Project List Using Laravel
+- <a href="https://github.com/Antonius1712/CORSEC"> CORPORATE SECRETARY / CORSEC Application </a>
+- <a href="https://github.com/Antonius1712/LEGAL"> LEGAL BPKB Checksheet Application </a>
+- <a href="https://github.com/Antonius1712/LGI-FIXED-ASSET"> Asset Number Generator </a>
+- <a href="https://github.com/Antonius1712/LGI-COLLECTION"> Report Generator for Multiple Brokers & Currency </a>
+- <a href="https://github.com/Antonius1712/RMFEE"> Budget & Realization Log & Processing </a>
+
+## My Project List Using Next.js
+- <a href="https://github.com/Antonius1712/accorpora-anime-site"> Accorpora Anime List </a>
+
 ## My Stacks
 
 | Language | Framework & Library | Database | Tools |

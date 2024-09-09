@@ -20,6 +20,9 @@ Welcome to my Github! 👩🏻‍💻 My name is Antonius Christian, I am a Back
 ## My Project List Using Next.js
 - <a href="https://github.com/Antonius1712/accorpora-anime-site"> Accorpora Anime List </a>
 
+## My Screenshot of Projects
+- <a href="https://github.com/Antonius1712/docs-screenshots"> Click me! </a>
+
 ## My Stacks
 
 | Language | Framework & Library | Database | Tools |
